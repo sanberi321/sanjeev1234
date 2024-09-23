@@ -1,0 +1,22 @@
+<!DOVTYPE html>
+<html>
+    <head>
+      <style>
+          #bord{
+          border-top: 50px solid black;
+          border-left: 50px solid red;
+          border-right: 50px solid gold;
+          border-bottom: 50px solid silver;
+          height: 100px;
+          width: 150px;
+          outline:30px solid orange;
+          outline-offset:10px;
+          marin-top: 200px;
+          margin-left: 60px;
+          }
+      </style>
+    </head>
+    <body>
+        <h1 id="bord">Preethi cindi</h1>
+    </body>
+</html> 
